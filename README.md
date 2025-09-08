@@ -1,5 +1,13 @@
 # Uptime-Kuma Monitoring with CI/CD & Real-Time Call Alerts
 
+<div align="center" width="100%">
+    <img src="./public/icon.svg" width="128" alt="" />
+</div>
+
+# Uptime Kuma
+
+Uptime Kuma is an easy-to-use self-hosted monitoring tool.
+
 ## Overview
 This repository contains a **CI/CD pipeline setup for Uptime-Kuma**, an open-source self-hosted monitoring tool.  
 It allows you to:
@@ -26,11 +34,5 @@ It allows you to:
 
 ---
 
-<div align="center" width="100%">
-    <img src="./public/icon.svg" width="128" alt="" />
-</div>
 
-# Uptime Kuma
-
-Uptime Kuma is an easy-to-use self-hosted monitoring tool.
 
