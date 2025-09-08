@@ -1,7 +1,5 @@
 # Uptime-Kuma Monitoring with CI/CD & Real-Time Call Alerts
 
-[![Uptime-Kuma](https://img.shields.io/badge/Uptime-Kuma-OpenSource-blue)](https://github.com/louislam/uptime-kuma)
-
 ## Overview
 This repository contains a **CI/CD pipeline setup for Uptime-Kuma**, an open-source self-hosted monitoring tool.  
 It allows you to:
